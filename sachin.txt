@@ -1,2 +1,3 @@
+using git pull to get code
 updating in remote repo
 this is normal text file
